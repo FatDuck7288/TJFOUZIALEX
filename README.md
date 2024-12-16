@@ -28,3 +28,5 @@ les modifs pour le code AVANT NOEL
 ![Merge reussi](p15.png)
 
 ![fusion des branches](P16.png)
+
+Ceci est la modification faite par Hatem
